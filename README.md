@@ -6,7 +6,7 @@ A script which compares images visually and prints the error between them.
 
 
 ## Contents
-Example on how to compare if images are similar visually.
+Example on how to compare if images are similar visually. The script loads a number of images, shirinks them down, creates a grayscale version and then overlays them with each other. The larger the common area is, the more similar the images are.
 
 ## Using the example
 
@@ -23,3 +23,6 @@ pip install -f requirements.txt
 ```
 python compare_images_visually.py
 ```
+
+## Disclaimer
+The images used in these example depict Elisabeth Baume-Schneider, a member of the Swiss Federal Council. She is a public figure, all images were downloaded from online newspapers in 2023.
