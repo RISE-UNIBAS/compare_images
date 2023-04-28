@@ -1,4 +1,5 @@
 # Compare Images
+[![Python application](https://github.com/RISE-UNIBAS/compare_images/actions/workflows/python-app.yml/badge.svg)](https://github.com/RISE-UNIBAS/compare_images/actions/workflows/python-app.yml)
 
 _This is a RISE example script. It should work in itself. You can clone or download the repository. If you have additions to an example which you would like to share, you are welcome to create a Pull Request._
 
